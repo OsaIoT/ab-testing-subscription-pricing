@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.duckdb
+# Raw data is not redistributed: see README for the download link
+data/raw/*.csv
+.DS_Store
